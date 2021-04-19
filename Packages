@@ -15,6 +15,23 @@ Icon: file:///Applications/Cydia.app/Sections/cp3Png/勋章.png
 Name: Installer 5「软件包管理器」
 Sponsor: chrisdapen <chrisdapen@163.com>
 
+Package: com.chrisdapen.icon
+Version: 5.0.4
+Architecture: iphoneos-arm
+Maintainer: chrisdapen <chrisdapen@163.com>
+Depends: firmware (>= 11.0)
+Filename: ./debs/icon1.deb
+Size: 40588
+MD5sum: d364487e028b434c2760e22ae633dc66
+SHA1: e7ceb56d7204fafdc46f85e12e742f865081c81d
+SHA256: 674de2bef5abc0684526775227048a3cc22685c9269121a60248627af5e3b219
+Section: 主题
+Description: 源里面各种插件的图标（建议都装，好看）
+Author: chrisdapen <chrisdapen@163.com>
+Icon: file:///Applications/Cydia.app/Sections/cp3Png/勋章.png
+Name: 源图标
+Sponsor: chrisdapen <chrisdapen@163.com>
+
 Package: com.odysseyteam.taurine
 Version: 1.0.4-1
 Architecture: iphoneos-arm
