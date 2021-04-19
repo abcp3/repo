@@ -1,3 +1,19 @@
+Package: com.dapen.lppz
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: chrisdapen
+Depends: firmware (>= 10.0)
+Filename: ./debs/lppznew.deb
+Size: 28625104
+MD5sum: d20289ea9cb4699aedeaffab6306ee76
+SHA1: 6c8ce2bb493b4e228dc9f58452486dca76026bff
+SHA256: 4a92bd5bf1d59065f9e675bf2c6ee0e289ec4593a799b2021b4c281b0d663947
+Section: System
+Description: 良品铺子去广告
+Author: chrisdapne <admin@abcydia.com>
+Name: 良品铺子直装
+Sponsor: chrisdapen <http://www.abcydia.com>
+
 Package: com.miro.marker
 Version: 1.0.3
 Architecture: iphoneos-arm
