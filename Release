@@ -1,0 +1,9 @@
+Origin: cp3的个人源
+Label: cp3的个人源
+Suite: stable
+Version: 1.7
+Codename: Tccpg
+Architectures: iphoneos-arm
+Components: main
+Description: cp3的个人源
+
