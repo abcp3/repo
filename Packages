@@ -1,3 +1,20 @@
+Package: com.chrisdapen.icon
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: chrisdapen <chrisdapen@163.com>
+Depends: firmware (>= 11.0)
+Filename: ./debs/Icon.deb
+Size: 39940
+MD5sum: d2e5d4e5ae97dcd6e8db9d3183114c77
+SHA1: cee00604d77e359890721719a0ebac66d3ed7b90
+SHA256: 475b2f97ed34d03a8ec6fd8f37b0cadfe406c1db6533bae0aa94caa57d14f902
+Section: 主题
+Description: 源里面各种插件的图标（建议都装，好看）
+Author: chrisdapen <chrisdapen@163.com>
+Icon: file:///Applications/Cydia.app/Sections/cp3Png/勋章.png
+Name: 源图标
+Sponsor: chrisdapen <chrisdapen@163.com>
+
 Package: com.odysseyteam.taurine
 Version: 1.0.4
 Architecture: iphoneos-arm
