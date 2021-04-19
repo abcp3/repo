@@ -1,0 +1,16 @@
+Package: com.odysseyteam.taurine
+Version: 1.0.4
+Architecture: iphoneos-arm
+Maintainer: chrisdapen
+Depends: firmware (>= 14.0)
+Filename: ./debs/Taurine.deb
+Size: 29613652
+MD5sum: 841591eaaee47f38dc352dc2b2f3ece4
+SHA1: fcc7824a5bbb9546da766488d0ef02b33cf58694
+SHA256: 47881f0cab3d4bd34c1fa4964afede0ef7f6a24d18af2f76ebec5b789b13fdbb
+Section: 应用
+Description: Taurine for iOS
+Author: chrisdapen
+Icon: file:///Applications/Cydia.app/Sections/cp3Png/应用.png
+Name: Taurine
+
