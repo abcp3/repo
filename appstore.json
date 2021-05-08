@@ -1,0 +1,143 @@
+{
+    "name": " CP3's Cracked AppStore",
+    "message": "发布/收录请联系:\r\nchrisdapen@gmail.com（备注CrackAPP）\r\n若出现下载无速度请使用代理，源中软件均来自网络",
+    "identifier": "https://abcp3.github.io/repo/appstore.json",
+    "sourceURL": "https://abcp3.github.io/repo/appstore.json",
+    "sourceicon": "https://abcp3.github.io/repo/source.png",
+    "payURL": "https://pay.nuosike.cn/c/vnnz6d10bmim7dz0njfr",
+    "unlockURL": "https://abcp3.github.io/repo/appstore.json",
+    "apps": [
+        {
+            "name": "全能签",
+            "version": "3.7",
+            "versionDate": "2021-02-02",
+            "versionDescription": "作者：全能签\n描述：一款手机端的ipa签名工具，导入P12证书以及安装包即可签名，可本地直接安装ipa包。更新一键恢复证书!兑换输入8888导入企业证书",
+            "lock": "0",
+            "downloadURL": "https://ipawj.nuosike.cn/qnq/全能签.ipa",
+            "isLanZouCloud": "0",
+            "iconURL": "https://qnq.nuosike.cn/uploads/20200920/110fa335493e1bb6d157a954952c0a69.png",
+            "tintColor": "018084",
+            "size": "3313500.16"
+        },
+        {
+            "name": "Quantumult",
+            "version": "2.2.8",
+            "versionDate": "2021-02-10",
+            "versionDescription": "作者：Quantumult\n描述：一款iOS端强大的上网工具，推荐✈️：\nhttp://i7q.cn/5OF83r",
+            "lock": "0",
+            "downloadURL": "https://od.aneeo.com/show/iPA/2-1542603480.ipa",
+            "isLanZouCloud": "0",
+            "iconURL": "https://img.aneeo.com/2019/04/28/5cc59bcc79881.jpg",
+            "tintColor": "",
+            "size": "17511219.2"
+        },
+        {
+            "name": "证书测试",
+            "version": "1",
+            "versionDate": "2021-01-29",
+            "versionDescription": "描述：测试证书是否可用，签名安装正常打开显示TEST",
+            "lock": "0",
+            "downloadURL": "https://udid.nuosike.cn/api/down/?lzd=idcB9kypkla",
+            "isLanZouCloud": "0",
+            "iconURL": "http://qnq.bismih.cn/uploads/20210128/965e1513f7548be3702e56d784291e88.png",
+            "tintColor": "",
+            "size": "1048576"
+        },
+        {
+            "name": "PicsArt++",
+            "version": "14.5.1",
+            "versionDate": "2021-02-07",
+            "versionDescription": "作者：DzMohaipa\n描述：一款强大的修图软件，修改为Premium会员",
+            "lock": "0",
+            "downloadURL": "https://ipadzmoha.com/dzmohaipa/uploads/PicsArt++.ipa",
+            "isLanZouCloud": "0",
+            "iconURL": "https://img.appvalley.vip/appValley-pic/appImg_1572442422579cydia-1900000593-icon.png",
+            "tintColor": "",
+            "size": "33764147.2"
+        },
+        {
+            "name": "InShot++",
+            "version": "1.47.0",
+            "versionDate": "2021-02-07",
+            "versionDescription": "作者：DzMohaipa\n描述：专业的高清视频编辑和视频制作App，修改为会员",
+            "lock": "0",
+            "downloadURL": "https://ipadzmoha.com/dzmohaipa/uploads/inShot++.ipa",
+            "isLanZouCloud": "0",
+            "iconURL": "https://dzmohaipa.com/app/En/img/inShot++.png",
+            "tintColor": "",
+            "size": "51799654.4"
+        },
+        {
+            "name": "Sleep Cycle++",
+            "version": "6.5.1",
+            "versionDate": "2021-02-07",
+            "versionDescription": "作者：DzMohaipa\n描述：追踪分析你的睡眠情况，在最佳时机唤醒你，让你感到轻松。修改为会员版",
+            "lock": "0",
+            "downloadURL": "https://ipadzmoha.com/dzmohaipa/uploads/SleepCycle++.ipa",
+            "isLanZouCloud": "0",
+            "iconURL": "https://dzmohaipa.com/app/img/Sleep.png",
+            "tintColor": "",
+            "size": "78748057.6"
+        },
+        {
+            "name": "TikTok Unicorn（暂不提供下载）",
+            "version": "18.3.0",
+            "versionDate": "2021-02-10",
+            "versionDescription": "作者：ClassicEmoji\n描述：为原版TikTok增添了超过25项功能。",
+            "lock": "0",
+            "downloadURL": "http://185.246.209.74/ipa/1121012122.ipa",
+            "isLanZouCloud": "0",
+            "iconURL": "https://topstore.vip/image/1121012122.png",
+            "tintColor": "",
+            "size": "141316587.52"
+        },
+        {
+            "name": "TouchRetouch",
+            "version": "4.2.1",
+            "versionDate": "2021-02-10",
+            "versionDescription": "作者：DzMohaipa\n描述：修改为全功能内购版。",
+            "lock": "0",
+            "downloadURL": "https://ipadzmoha.com/dzmohaipa/uploads/TouchRetouch.ipa",
+            "isLanZouCloud": "0",
+            "iconURL": "https://dzmohaipa.com/app/img/TouchRetouch.png",
+            "tintColor": "",
+            "size": "12687769.6"
+        },
+        {
+            "name": "Minecraft",
+            "version": "1.8.0.24",
+            "versionDate": "2021-02-10",
+            "versionDescription": "作者：Mojang",
+            "lock": "0",
+            "downloadURL": "http://185.246.209.74/ipa/1026144751.ipa",
+            "isLanZouCloud": "0",
+            "iconURL": "https://img.appvalley.vip/appValley-pic/appImg_1553092534701.png",
+            "tintColor": "",
+            "size": "59349401.6"
+        },
+        {
+            "name": "哔咔漫画",
+            "version": "2.1.2.5",
+            "versionDate": "2021-02-10",
+            "versionDescription": "作者：哔咔漫画\n描述：PicAcg让你可以轻松看到不同的本子，界面美观易用，分类齐全，每日更新，绅士必看！",
+            "lock": "0",
+            "downloadURL": "https://d1.httpuse.xyz/files/apk/20063/ipa%E5%AE%89%E8%A3%9D%E6%AA%94/Bika-2.1.2.5-2020.11.14-GDaily.org.ipa",
+            "isLanZouCloud": "0",
+            "iconURL": "https://www.picacomic.com/images/android-icon-192x192.png",
+            "tintColor": "",
+            "size": "10328473.6"
+        },
+        {
+            "name": "滑雪大冒险2",
+            "version": "1.2.6",
+            "versionDate": "2021-02-07",
+            "versionDescription": "作者：Unknown\n描述：金币破解",
+            "lock": "0",
+            "downloadURL": "http://185.246.209.74/ipa/323222878.ipa",
+            "isLanZouCloud": "0",
+            "iconURL": "https://topstore.vip/image/323222878.png",
+            "tintColor": "",
+            "size": "78989230.08"
+        }
+    ]
+}
