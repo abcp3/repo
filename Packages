@@ -15,6 +15,20 @@ Icon: file:///Applications/Cydia.app/Sections/cp3Png/勋章.png
 Name: 源图标
 Sponsor: chrisdapen <chrisdapen@163.com>
 
+Package: com.dapen.txSports
+Version: 0.1-1
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/txSports.deb
+Size: 11992
+MD5sum: 9fde8db7a48f9bb480cf220453ca9b2d
+SHA1: 1953b9d7037b4c9f87303f8d614c635fa815c95d
+SHA256: 006b434d143213a764ca6fc4d546e212271dee3d54cf13980fc637aa3252d1bd
+Section: System
+Priority: optional
+Author: cp3
+Name: txSports
+
 Package: com.odysseyteam.taurine
 Version: 1.0.4
 Architecture: iphoneos-arm
