@@ -1,3 +1,55 @@
+Package: com.bandarhl.FlexCrack
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: @CrazyMind90 & @bandarHL
+Depends: mobilesubstrate, ws.hbang.common, ldid
+Filename: ./debs/FlexCrack.deb
+Size: 3678872
+MD5sum: 65c169c48b64bfe91df5ef0b244b7bd0
+SHA1: 71620912ca9ca3ef8f19d3c714e53a10f4bccc6f
+SHA256: eb86f47fdb516c3909d6fee18700e9a9785e18a45b9341c87ad5bd4480123b60
+Section: System
+Description: Crack apps ..
+Author: @CrazyMind90 & @bandarHL
+Name: FlexCrack
+
+Package: com.bynow.starvpn
+Version: 0.0.1+debug
+Architecture: iphoneos-arm
+Maintainer: 子非鱼
+Installed-Size: 80
+Depends: mobilesubstrate
+Filename: ./debs/com.bynow.starvpn_0.0.1+debug_iphoneos-arm.deb
+Size: 3904
+MD5sum: 972a4f13eb9b302ca9cc3d89d1463cbf
+SHA1: 58ce183056c7abb0ffd7ce0d4536f487d2990110
+SHA256: afab3d3c88c0cf6ef8fbd20527cbf63ee0c4a03e6e7b68ba174c5a0ebb0ea6ce
+Section: Tweaks
+Description: Starvpn
+Author: 子非鱼
+Name: Star VPN
+
+Package: com.bynow.tsports
+Version: 0.0.1+debug
+Architecture: iphoneos-arm
+Maintainer: 子非鱼
+Installed-Size: 80
+Depends: mobilesubstrate
+Filename: ./debs/com.bynow.tsports_0.0.1+debug_iphoneos-arm.deb
+Size: 4108
+MD5sum: 6ea3bdb1e335dc46bcec3011bf954140
+SHA1: d0679582f293b2d788cafda8bee498da3ee67a24
+SHA256: 18842fc2b5d8b4c13010a4f5c2f59ce700e6b2e5e620ebbbe089a8cbe25477ff
+Section: Tweaks
+Description: 视频播放广告
+ 视频界面广告
+ 视频右下漂浮
+ 视频礼物弹窗
+ 其他界面优化
+ 启动各类弹窗
+Author: 子非鱼
+Name: tsports
+
 Package: com.chrisdapen.icon
 Version: 1.0.0
 Architecture: iphoneos-arm
@@ -14,4 +66,20 @@ Author: chrisdapen <chrisdapen@163.com>
 Icon: file:///Applications/Cydia.app/Sections/cp3Png/勋章.png
 Name: 源图标
 Sponsor: chrisdapen <chrisdapen@163.com>
+
+Package: com.crazymind90.appeditor
+Version: 3.6.7.1-1
+Architecture: iphoneos-arm
+Maintainer: @CrazyMind90
+Installed-Size: 7328
+Depends: firmware (>= 13.0),mobilesubstrate (>= 0.9.5000),com.rpetrich.rocketbootstrap,ldid,com.cokepokes.libnotifications
+Filename: ./debs/AppEditor.deb
+Size: 3304386
+MD5sum: 6c333baf5e3c2cc3a30e6b7a761a543c
+SHA1: 63026a3b919d6676665367782d0d6d04841c68a3
+SHA256: 6ebedb91850aee4bb94cc7800c4ce59f8ee16eff31e91e95f753018a74db9fa0
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: @CrazyMind90
+Name: AppEditor
 
