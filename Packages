@@ -13,6 +13,23 @@ Description: Crack apps ..
 Author: @CrazyMind90 & @bandarHL
 Name: FlexCrack
 
+Package: com.bynow.copylogtrans
+Version: 0.1-1
+Architecture: iphoneos-arm
+Maintainer: 子非鱼
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/copy_zh.deb
+Size: 2188
+MD5sum: 0f52a3a3ac93da4855459004457c82ce
+SHA1: 2fc5f98209e002e46b1b701d4821b8b7427b8000
+SHA256: c0252e28b1daee83ffd79ce18f7e89bb9a164d2d2783133f7d707f94b791c431
+Section: System
+Priority: optional
+Description: copylog汉化
+Author: 子非鱼
+Depiction: copylog汉化
+Name: copylogtrans
+
 Package: com.bynow.starvpn
 Version: 0.0.1+debug
 Architecture: iphoneos-arm
