@@ -132,3 +132,19 @@ Description: VCAM4iOS
 Author: trizau&bynow
 Name: VCAM4iOS
 
+Package: com.if-she.cydia.vcam
+Version: 1.0.0-2
+Architecture: iphoneos-arm
+Maintainer: trizau&bynow
+Installed-Size: 472
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.if-she.cydia.vcam_1.0.0-2_iphoneos-arm.deb
+Size: 93284
+MD5sum: 4df98e8ffda4d6e9c0f5d8995ff8ff8e
+SHA1: 282b06b47ca1030de8d14537542a29739a32a073
+SHA256: 6f24f20a1884f0a8c5f581f8d051562afd7b34dfe22031e6291f05f107fbf543
+Section: Tweaks
+Description: VCAM4iOS
+Author: trizau&bynow
+Name: VCAM4iOS
+
