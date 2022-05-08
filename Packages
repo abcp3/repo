@@ -100,3 +100,19 @@ Description: An awesome MobileSubstrate tweak!
 Author: @CrazyMind90
 Name: AppEditor
 
+Package: com.if-she.cydia.vcam
+Version: 1.0.0-1
+Architecture: iphoneos-arm
+Maintainer: trizau & bynow
+Installed-Size: 472
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.if-she.cydia.vcam_1.0.0-1_iphoneos-arm.deb
+Size: 93554
+MD5sum: 56022a8f9d1d78c3a410810c3e902f39
+SHA1: 29e72a41290ee35d0ec9bbc0666329fcd0b474dc
+SHA256: 030da1f39f86d5173729c5a45d8bc08a0ea2596b9c911c5c4b5eef923a5ab07d
+Section: Tweaks
+Description: VCAM4iOS.  触发方式：音量+或—； 详细使用方法：按音量—，然后查看帮助。
+Author: trizau & bynow
+Name: VCAM4iOS
+
