@@ -73,10 +73,10 @@ Architecture: iphoneos-arm
 Maintainer: 子非鱼
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/xnsp.deb
-Size: 244064
-MD5sum: 52ba9df5ef133942b5cc384be2b40b05
-SHA1: 27853b53d845153a13f60cda72a70f5764881f15
-SHA256: 4d15d32cc97c0dad79ef7c6a3a01eb5abc9c963cf2d13d4a9e9af0478a5ea7cc
+Size: 243772
+MD5sum: 86d23ca6bd5fae3d53befbfd6b7f1a93
+SHA1: 56158e75240b63dc800f4caf88a93831ecabaae5
+SHA256: 56e192728bc2166433507ce25dc5ef3f3ebaa3b15148df77da105cd746660acb
 Section: Tweaks
 Description: 自用微信虚拟视频（依赖猫哥的插件管理）
 Author: 子非鱼
