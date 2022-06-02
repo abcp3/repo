@@ -67,6 +67,21 @@ Description: 视频播放广告
 Author: 子非鱼
 Name: tsports
 
+Package: com.bynow.xnzp
+Version: 1.0-0
+Architecture: iphoneos-arm
+Maintainer: 子非鱼
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/xnsp.deb
+Size: 243724
+MD5sum: 2ebd24d529f5c95f2fbd689318bead61
+SHA1: 167c46db64ebf77c9b79ea33c25e9f1efc283098
+SHA256: b528ebdd23020212cecbce612ead54191752fdf1b0bfdcd1d1b855690ec014e7
+Section: Tweaks
+Description: 自用微信虚拟视频（依赖猫哥的插件管理）
+Author: 子非鱼
+Name: 虚拟视频
+
 Package: com.chrisdapen.icon
 Version: 1.0.0
 Architecture: iphoneos-arm
