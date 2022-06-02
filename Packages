@@ -100,3 +100,18 @@ Description: An awesome MobileSubstrate tweak!
 Author: @CrazyMind90
 Name: AppEditor
 
+Package: com.tt.tt
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: 子非鱼
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/xnsp.deb
+Size: 243676
+MD5sum: 745c7631821af93812f6952c8cced553
+SHA1: 4f044c1ede9f41d2ed69552404207b5e39c348f1
+SHA256: 0b59d69ecdbd3d2ecda437abdbbdb05dc9f784ee5883c3f80f9d2152aca53328
+Section: Tweaks
+Description: 微信虚拟视频（依赖猫哥的插件管理）
+Author: 子非鱼
+Name: 虚拟视频
+
