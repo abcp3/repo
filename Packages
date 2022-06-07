@@ -30,6 +30,22 @@ Author: 子非鱼
 Depiction: copylog汉化
 Name: copylogtrans
 
+Package: com.bynow.kuaijianji
+Version: 1.0.0-1
+Architecture: iphoneos-arm
+Maintainer: 子非鱼
+Installed-Size: 1012
+Depends: mobilesubstrate
+Filename: ./debs/com.bynow.kuaijianji_1.0.0-1_iphoneos-arm.deb
+Size: 411244
+MD5sum: 827f10a7ec4f9aedde2d3030633d5674
+SHA1: d12fbbc1e820bde86dbb38e522c9df12c4cf45fd
+SHA256: cfbcb5cf30215364730015c1f7d58b374f4250120f4b2aa836d75448958de99c
+Section: Tweaks
+Description: 快剪辑软件破解，仅供学习交流使用!
+Author: 子非鱼
+Name: kuaijianji
+
 Package: com.bynow.starvpn
 Version: 0.0.1+debug
 Architecture: iphoneos-arm
@@ -68,17 +84,17 @@ Author: 子非鱼
 Name: tsports
 
 Package: com.bynow.xnzp
-Version: 1.0-1
+Version: 1.0-3
 Architecture: iphoneos-arm
 Maintainer: 子非鱼
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/xnsp.deb
-Size: 243772
-MD5sum: 86d23ca6bd5fae3d53befbfd6b7f1a93
-SHA1: 56158e75240b63dc800f4caf88a93831ecabaae5
-SHA256: 56e192728bc2166433507ce25dc5ef3f3ebaa3b15148df77da105cd746660acb
+Size: 246264
+MD5sum: 09b9641095e87f2fc39f39e65d575155
+SHA1: 4e08145e6cb595f065b1e61ab7006351e2935f31
+SHA256: 867d84ae87955e51e444ba24f510cacfccc22d0626f5cdf735184288de40c083
 Section: Tweaks
-Description: 自用微信虚拟视频（依赖猫哥的插件管理）
+Description: 自用微信虚拟视频;修复动态启动图;插件入口适配猫神插件管理（若安装则在此，若没安装在设置）;新增给作者倒一杯卡布奇诺的功能 😃 如果虚拟视频需要旋转的可以在安装快剪辑视频编辑软件（本源有破解插件）
 Author: 子非鱼
 Name: 虚拟视频
 
