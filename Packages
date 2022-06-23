@@ -84,17 +84,17 @@ Author: 子非鱼
 Name: tsports
 
 Package: com.bynow.xnzp
-Version: 1.0-3
+Version: 1.0-4
 Architecture: iphoneos-arm
 Maintainer: 子非鱼
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/xnsp.deb
-Size: 246264
-MD5sum: 09b9641095e87f2fc39f39e65d575155
-SHA1: 4e08145e6cb595f065b1e61ab7006351e2935f31
-SHA256: 867d84ae87955e51e444ba24f510cacfccc22d0626f5cdf735184288de40c083
+Size: 614808
+MD5sum: 5993834162527eeaaaec0223ec6f29ff
+SHA1: 84fbbcc8018a11141353c97fd6d37b7440c46de8
+SHA256: 349e6a6c667590311b87ba82f3d1f4b1ca28f38685a68f52dadf93d397f327ce
 Section: Tweaks
-Description: 自用微信虚拟视频;修复动态启动图;插件入口适配猫神插件管理（若安装则在此，若没安装在设置）;新增给作者倒一杯卡布奇诺的功能 😃 如果虚拟视频需要旋转的可以在安装快剪辑视频编辑软件（本源有破解插件）
+Description: 自用微信虚拟视频;新增快捷入口，在设置里面开启虚拟视频后可在任意界面通过快捷入口选择视频或者禁止替换（即真实的实时画面）；长按自定义悬浮图标，要想隐藏悬浮图标到设置里面关闭虚拟视频选项即可。
 Author: 子非鱼
 Name: 虚拟视频
 
